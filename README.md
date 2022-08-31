@@ -63,7 +63,25 @@ Here we only provide our 4-class (i.e. Supine, Prone, Sitting, and Standing) pos
 ## Citation
 
 If you use our code or models in your research, please cite with:
-
+* FiDIP for 2D Infant Pose Estimation
+```
+@inproceedings{huang2021infant,
+  title={Invariant Representation Learning for Infant Pose Estimation with Small Data},
+  author={Huang, Xiaofei and Fu, Nihang and Liu, Shuangjun and Ostadabbas, Sarah},
+  booktitle={IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2021},
+  month     = {December},
+  year      = {2021}
+}
+```
+* HW-HUP for 3D Infant Pose Estimation
+```
+@article{liu2021heuristic,
+  title={Heuristic Weakly Supervised 3D Human Pose Estimation in Novel Contexts without Any 3D Pose Ground Truth},
+  author={Liu, Shuangjun and Huang, Xiaofei and Fu, Nihang and Ostadabbas, Sarah},
+  journal={arXiv preprint arXiv:2105.10996},
+  year={2021}
+}
+```
 
 
 ## Acknowledgement
