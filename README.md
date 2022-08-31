@@ -45,6 +45,7 @@ python train_kpts_syrip_4class.py \
     --train_anno /Root path of your saved 2D groundtruth pose data/SyRIP/annotations/train600/person_keypoints_train_infant.json \
     --test_anno /Root path of your saved 2D predicted pose data/SyRIP/annotations/validate100/person_keypoints_validate_infant.json \ 
     --dir ./outputs
+```
 
 ## Training 3D pose-based model on SyRIP dataset
 ```
