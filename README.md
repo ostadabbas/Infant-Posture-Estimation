@@ -12,6 +12,7 @@ Contact:
 
 ## Table of Contents
   * [Introduction](#introduction)
+  * [what's New](#what's_new)
   * [Environment](#environment)
   * [Data preparation](#data-preparation)
   * [How to use](#how-to-use)
